@@ -1,0 +1,1 @@
+export const phasmoNamedEvidence = ["Fingerprints", "Freezing Temperatures", "Spirit Box", "EMF Level 5", "Ghost Orb", "Ghost Writing"]
